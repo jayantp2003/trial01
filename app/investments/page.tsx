@@ -483,45 +483,57 @@ const DistributionCard = ({
 }
 
 // Function to calculate investment distribution based on request data
-// const calculateDistribution = (request: InvestmentRequest): InvestmentResponse => {
-//   // This is where you would implement your actual distribution algorithm
-//   // For this example, we'll create a simple algorithm based on the month and events
+const generateDistribution = (month: number, holidays: string[], salesDays: string[]) => {
+  // Create an initial seed value from the inputs
+  let seedValue = month + holidays.length * 3 + salesDays.length * 2;
+  
+  // Simple random number generator with seed
+  const seededRandom = () => {
+    seedValue = Math.sin(seedValue) * 10000;
+    return seedValue - Math.floor(seedValue);
+  };
 
-//   // Base distribution - will be adjusted based on inputs
-//   const baseDistribution = {
-//     TV: 0.2,
-//     Digital: 0.25,
-//     Sponsorship: 0.15,
-//     ContentMarketing: 0.1,
-//     OnlineMarketing: 0.1,
-//     Affiliates: 0.08,
-//     SEM: 0.07,
-//     Other: 0.05,
-//   }
+  // Generate initial random values for each stream
+  const rawValues = {
+    TV: 0.15 + seededRandom() * 0.15,
+    Digital: 0.2 + seededRandom() * 0.15,
+    Sponsorship: 0.1 + seededRandom() * 0.15,
+    ContentMarketing: 0.1 + seededRandom() * 0.1,
+    OnlineMarketing: 0.1 + seededRandom() * 0.1,
+    Affiliates: 0.05 + seededRandom() * 0.1,
+    SEM: 0.05 + seededRandom() * 0.1,
+    Other: 0.05 + seededRandom() * 0.05
+  };
 
-//   // Adjust based on month (seasonal factors)
-//   const monthFactor = (request.month % 12) / 12 // 0-1 value based on month
+  // Adjust based on month (seasonal factors)
+  if (month >= 11 || month <= 1) { // Holiday season
+    rawValues.TV *= 1.2;
+    rawValues.Digital *= 1.15;
+  } else if (month >= 6 && month <= 8) { // Summer
+    rawValues.Sponsorship *= 1.2;
+    rawValues.OnlineMarketing *= 1.15;
+  }
 
-//   // Adjust based on number of holidays
-//   const holidayFactor = request.holiday.length * 0.02
+  // Adjust based on holidays
+  if (holidays.length > 0) {
+    rawValues.TV *= 1 + (holidays.length * 0.02);
+    rawValues.Sponsorship *= 1 + (holidays.length * 0.03);
+  }
 
-//   // Adjust based on number of sales days
-//   const salesFactor = request.salesday.length * 0.03
+  // Adjust based on sale days
+  if (salesDays.length > 0) {
+    rawValues.Digital *= 1 + (salesDays.length * 0.02);
+    rawValues.SEM *= 1 + (salesDays.length * 0.03);
+  }
 
-//   // Apply adjustments (this is a simplified example)
-//   const result: InvestmentResponse = {
-//     TV: Math.min(0.9, baseDistribution.TV + monthFactor * 0.1 - salesFactor * 0.05),
-//     Digital: Math.min(0.9, baseDistribution.Digital + salesFactor * 0.1),
-//     Sponsorship: Math.min(0.9, baseDistribution.Sponsorship + holidayFactor * 0.1),
-//     ContentMarketing: Math.min(0.9, baseDistribution.ContentMarketing + monthFactor * 0.05 + holidayFactor * 0.02),
-//     OnlineMarketing: Math.min(0.9, baseDistribution.OnlineMarketing + salesFactor * 0.08),
-//     Affiliates: Math.min(0.9, baseDistribution.Affiliates + salesFactor * 0.03),
-//     SEM: Math.min(0.9, baseDistribution.SEM + salesFactor * 0.04),
-//     Other: Math.min(0.9, baseDistribution.Other + holidayFactor * 0.01),
-//   }
+  // Normalize to ensure total is 1 (100%)
+  const total = Object.values(rawValues).reduce((a, b) => a + b, 0);
+  Object.keys(rawValues).forEach(key => {
+    rawValues[key as keyof typeof rawValues] /= total;
+  });
 
-//   return result
-// }
+  return rawValues;
+};
 
 export default function InvestmentPlanner() {
   const [currentDate, setCurrentDate] = useState(new Date())
@@ -590,32 +602,18 @@ export default function InvestmentPlanner() {
 
   const predictDistribution = async () => {
     try {
-      // Make API call to get distribution
-      const response = await fetch("https://gcdata-753048278340.us-central1.run.app/calculate_month_investment", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(requestData),
-      })
-
-      if (!response.ok) {
-        throw new Error(`Error: ${response.status}`)
-      }
-
-      const data = await response.json()
-
+      const data = generateDistribution(requestData.month, requestData.holiday, requestData.salesday);
+      
       // Convert to percentage format for display
       const newDistribution = Object.entries(data).map(([id, value]) => ({
         id,
-        percentage: (value as number) * 100, // Convert to percentage
-      }))
+        percentage: value * 100,
+      }));
 
-      setDistribution(newDistribution)
-      setIsPredicted(true)
+      setDistribution(newDistribution);
+      setIsPredicted(true);
     } catch (error) {
-      console.error("Failed to predict distribution:", error)
-      // You could add error state handling here
+      console.error("Failed to predict distribution:", error);
     }
   }
 
