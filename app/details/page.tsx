@@ -115,6 +115,1048 @@ const processedData = (() => {
   return { categories, subcategories, verticalMap }
 })()
 
+const Response1 = {
+    "CAME58RRKPSRGXKG": {
+        "Total_sales": 4167399.0,
+        "total_units": 203.0,
+        "avg_sla": 5.330049261083744,
+        "total_cod": 99,
+        "total_prepaid": 102,
+        "last_week": [
+            20799.0,
+            19780.0,
+            20799.0,
+            41598.0,
+            83196.0,
+            0.0,
+            20799.0,
+            19299.0
+        ]
+    },
+    "CAME88GQHQAETEYA": {
+        "Total_sales": 933078.0,
+        "total_units": 59.0,
+        "avg_sla": 7.084745762711864,
+        "total_cod": 37,
+        "total_prepaid": 22,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            14840.0,
+            0.0,
+            13356.0,
+            0.0,
+            15400.0
+        ]
+    },
+    "CAME88GQKNGRC7TH": {
+        "Total_sales": 704229.0,
+        "total_units": 32.0,
+        "avg_sla": 7.65625,
+        "total_cod": 18,
+        "total_prepaid": 14,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAME6899QMB52VZD": {
+        "Total_sales": 614130.0,
+        "total_units": 12.0,
+        "avg_sla": 5.75,
+        "total_cod": 0,
+        "total_prepaid": 12,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAME8GQZETKBMCY9": {
+        "Total_sales": 551980.0,
+        "total_units": 7.0,
+        "avg_sla": 5.857142857142857,
+        "total_cod": 0,
+        "total_prepaid": 7,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAME89U4HVYBTHHY": {
+        "Total_sales": 296793.0,
+        "total_units": 7.0,
+        "avg_sla": 6.714285714285714,
+        "total_cod": 3,
+        "total_prepaid": 4,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            42399.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEYGHFNEZFU7S4": {
+        "Total_sales": 250996.0,
+        "total_units": 5.0,
+        "avg_sla": 7.8,
+        "total_cod": 4,
+        "total_prepaid": 1,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMDUMPVYJUFYCHA": {
+        "Total_sales": 243400.0,
+        "total_units": 6.0,
+        "avg_sla": 8.166666666666666,
+        "total_cod": 6,
+        "total_prepaid": 0,
+        "last_week": [
+            40500.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMDTE4NA8ZGFQHH": {
+        "Total_sales": 179360.0,
+        "total_units": 9.0,
+        "avg_sla": 7.666666666666667,
+        "total_cod": 8,
+        "total_prepaid": 1,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAME86NUQGHNYM2D": {
+        "Total_sales": 173900.0,
+        "total_units": 1.0,
+        "avg_sla": 8.0,
+        "total_cod": 0,
+        "total_prepaid": 1,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMDB4BUGBUFF4GT": {
+        "Total_sales": 151798.0,
+        "total_units": 2.0,
+        "avg_sla": 6.0,
+        "total_cod": 0,
+        "total_prepaid": 2,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMDTYUPDJ7AFVSP": {
+        "Total_sales": 134000.0,
+        "total_units": 1.0,
+        "avg_sla": 5.0,
+        "total_cod": 0,
+        "total_prepaid": 1,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMDTFNNCFMN9GGC": {
+        "Total_sales": 124450.0,
+        "total_units": 2.0,
+        "avg_sla": 8.0,
+        "total_cod": 0,
+        "total_prepaid": 2,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMDTFNN5GYZTJSJ": {
+        "Total_sales": 107000.0,
+        "total_units": 2.0,
+        "avg_sla": 4.0,
+        "total_cod": 0,
+        "total_prepaid": 2,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEY8TFFTQKQDGH": {
+        "Total_sales": 76297.0,
+        "total_units": 3.0,
+        "avg_sla": 10.333333333333334,
+        "total_cod": 2,
+        "total_prepaid": 1,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMCYZHFWHBHJ6AQ": {
+        "Total_sales": 63500.0,
+        "total_units": 1.0,
+        "avg_sla": 5.0,
+        "total_cod": 0,
+        "total_prepaid": 1,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAME9YMHXFPMMFZK": {
+        "Total_sales": 62490.0,
+        "total_units": 10.0,
+        "avg_sla": 10.3,
+        "total_cod": 6,
+        "total_prepaid": 4,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMDFW6TWGE8UC8F": {
+        "Total_sales": 18836.0,
+        "total_units": 2.0,
+        "avg_sla": 5.5,
+        "total_cod": 1,
+        "total_prepaid": 1,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEFHGUDNSGZCAN": {
+        "Total_sales": 17138.0,
+        "total_units": 2.0,
+        "avg_sla": 8.0,
+        "total_cod": 2,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            8569.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEFHGMK9FNDKDG": {
+        "Total_sales": 8138.0,
+        "total_units": 2.0,
+        "avg_sla": 8.0,
+        "total_cod": 2,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            4069.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEE672Y9FYFJ6K": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEFM4METQ5YJSN": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEFMVFBZMUYHRY": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEFQP73EPUUJ9Y": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEFQP94GU5TTGC": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEFYGZY5Y5RYCU": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEGFFSHCH87ZAP": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEGFG86XDGXN73": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEGSCJEGJWJMHP": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEGSCSAMSRCDYT": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEHADYGYGTHNMG": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEHKGMZZH5JCZD": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEHQZHDDFJGUXT": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEHRSGJKYFG63G": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEJ7W2NGDJWHFG": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAMEJXGFRWYYYH8K": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "CAUEJ9QYHJ2SV7HW": {
+        "Total_sales": 0.0,
+        "total_units": 0.0,
+        "avg_sla": 0.0,
+        "total_cod": 0,
+        "total_prepaid": 0,
+        "last_week": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+};
+
+const Response2 = {
+  "SNMEFUK25RDFA2YX": {
+      "Total_sales": 77500.0,
+      "total_units": 5.0,
+      "avg_sla": 6.4,
+      "total_cod": 3.0,
+      "total_prepaid": 2.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEDRHUAJZHH4QG": {
+      "Total_sales": 55000.0,
+      "total_units": 5.0,
+      "avg_sla": 7.6,
+      "total_cod": 4.0,
+      "total_prepaid": 1.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          11000.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEHEYAZBTQCQJZ": {
+      "Total_sales": 20500.0,
+      "total_units": 2.0,
+      "avg_sla": 9.0,
+      "total_cod": 1.0,
+      "total_prepaid": 1.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEHD2FYZDUVSXZ": {
+      "Total_sales": 16500.0,
+      "total_units": 1.0,
+      "avg_sla": 5.0,
+      "total_cod": 0.0,
+      "total_prepaid": 1.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          16500.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEDKPFDHV3MTHD": {
+      "Total_sales": 15220.0,
+      "total_units": 2.0,
+      "avg_sla": 9.0,
+      "total_cod": 2.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEGYMFYFWAAQBZ": {
+      "Total_sales": 8400.0,
+      "total_units": 1.0,
+      "avg_sla": 5.0,
+      "total_cod": 0.0,
+      "total_prepaid": 1.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEDEACBZWWP7FM": {
+      "Total_sales": 8150.0,
+      "total_units": 1.0,
+      "avg_sla": 9.0,
+      "total_cod": 0.0,
+      "total_prepaid": 1.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEGY62KZ2QCFWG": {
+      "Total_sales": 7350.0,
+      "total_units": 1.0,
+      "avg_sla": 5.0,
+      "total_cod": 0.0,
+      "total_prepaid": 1.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEDHS7FMHWFZDF": {
+      "Total_sales": 5760.0,
+      "total_units": 1.0,
+      "avg_sla": 11.0,
+      "total_cod": 0.0,
+      "total_prepaid": 1.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEDRJKRUXJ2EZX": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEG4YHQHBZEHN6": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEG6HY3HHPG8SV": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEG6HYGYPYUSDQ": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEG6HYJAMATAG2": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEG6HYJDYU4GDG": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEG6HYMPFWHG2W": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEG6HYUTXMJJUF": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEGA7HBVFTXHMK": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEGQ2MFRTXPK3V": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEHBZW7YGFDCSZ": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEHEYEURNJFD6H": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEHEYXQCEW3JCQ": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEHU5S2QXTWNHR": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  },
+  "SNMEHZPKV5DHZFPS": {
+      "Total_sales": 0.0,
+      "total_units": 0.0,
+      "avg_sla": 0.0,
+      "total_cod": 0.0,
+      "total_prepaid": 0.0,
+      "last_week": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+      ]
+  }
+}
 // Update the MiniChart component to handle zero values properly
 function MiniChart({ data }: { data: number[] }) {
   const max = Math.max(...data)
@@ -211,40 +1253,71 @@ export default function YearlyAnalysis() {
         end_date: endDate,
       })
 
-      const response = await axios.post(
-        "https://gcdata-753048278340.us-central1.run.app/get_details",
-        {
-          category: selectedCategory,
-          sub_category: selectedSubcategory,
-          vertical: selectedVertical,
-          start_date: startDate,
-          end_date: endDate,
-        },
-        {
-          headers: {
-            "Content-Type": "application/json",
-          },
-        },
-      )
+      // const response = await axios.post(
+      //   "https://gcdata-753048278340.us-central1.run.app/get_details",
+      //   {
+      //     category: selectedCategory,
+      //     sub_category: selectedSubcategory,
+      //     vertical: selectedVertical,
+      //     start_date: startDate,
+      //     end_date: endDate,
+      //   },
+      //   {
+      //     headers: {
+      //       "Content-Type": "application/json",
+      //     },
+      //   },
+      // )
 
-      console.log("API Response:", response.data)
+      if(selectedCategory === "Camera"){
+        setTableData(Object.entries(Response1).map(([fsn_id, data]: [string, any]) => {
+          return {
+            fsn_id,
+            totalSales: data.Total_sales || 0,
+            units: data.total_units || 0,
+            avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
+            codPercentage:
+              data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
+            prepaidPercentage:
+              data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
+            last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
+          }
+        }))
+      }else{
+        setTableData(Object.entries(Response2).map(([fsn_id, data]: [string, any]) => {
+          return {
+            fsn_id,
+            totalSales: data.Total_sales || 0,
+            units: data.total_units || 0,
+            avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
+            codPercentage:
+              data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
+            prepaidPercentage:
+              data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
+            last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
+          }
+        }))
+      }
+      //
 
-      // Transform the response data to match the table format
-      const transformedData = Object.entries(response.data).map(([fsn_id, data]: [string, any]) => {
-        return {
-          fsn_id,
-          totalSales: data.Total_sales || 0,
-          units: data.total_units || 0,
-          avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
-          codPercentage:
-            data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
-          prepaidPercentage:
-            data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
-          last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
-        }
-      })
+      // console.log("API Response:", response.data)
 
-      setTableData(transformedData)
+      // // Transform the response data to match the table format
+      // const transformedData = Object.entries(response.data).map(([fsn_id, data]: [string, any]) => {
+      //   return {
+      //     fsn_id,
+      //     totalSales: data.Total_sales || 0,
+      //     units: data.total_units || 0,
+      //     avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
+      //     codPercentage:
+      //       data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
+      //     prepaidPercentage:
+      //       data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
+      //     last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
+      //   }
+      // })
+
+      // setTableData(transformedData)
       // Reset to first page when filters change
       setCurrentPage(1)
     } catch (error) {
