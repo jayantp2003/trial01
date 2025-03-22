@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react"
 import { Card } from "@/components/ui/card"
 import { Calendar, Filter, ChevronDown, Search } from "lucide-react"
+import { Loader } from "@/components/ui/loader"
 const axios = require("axios")
 
 // Parse the provided category data
@@ -1253,72 +1254,34 @@ export default function YearlyAnalysis() {
         end_date: endDate,
       })
 
-      // const response = await axios.post(
-      //   "https://gcdata-753048278340.us-central1.run.app/get_details",
-      //   {
-      //     category: selectedCategory,
-      //     sub_category: selectedSubcategory,
-      //     vertical: selectedVertical,
-      //     start_date: startDate,
-      //     end_date: endDate,
-      //   },
-      //   {
-      //     headers: {
-      //       "Content-Type": "application/json",
-      //     },
-      //   },
-      // )
+      // Add artificial delay for better UX
+      await new Promise(resolve => setTimeout(resolve, 1500));
 
       if(selectedCategory === "Camera"){
-        setTableData(Object.entries(Response1).map(([fsn_id, data]: [string, any]) => {
-          return {
-            fsn_id,
-            totalSales: data.Total_sales || 0,
-            units: data.total_units || 0,
-            avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
-            codPercentage:
-              data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
-            prepaidPercentage:
-              data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
-            last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
-          }
-        }))
-      }else{
-        setTableData(Object.entries(Response2).map(([fsn_id, data]: [string, any]) => {
-          return {
-            fsn_id,
-            totalSales: data.Total_sales || 0,
-            units: data.total_units || 0,
-            avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
-            codPercentage:
-              data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
-            prepaidPercentage:
-              data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
-            last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
-          }
-        }))
+        setTableData(Object.entries(Response1).map(([fsn_id, data]: [string, any]) => ({
+          fsn_id,
+          totalSales: data.Total_sales || 0,
+          units: data.total_units || 0,
+          avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
+          codPercentage:
+            data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
+          prepaidPercentage:
+            data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
+          last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
+        })))
+      } else {
+        setTableData(Object.entries(Response2).map(([fsn_id, data]: [string, any]) => ({
+          fsn_id,
+          totalSales: data.Total_sales || 0,
+          units: data.total_units || 0,
+          avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
+          codPercentage:
+            data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
+          prepaidPercentage:
+            data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
+          last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
+        })))
       }
-      //
-
-      // console.log("API Response:", response.data)
-
-      // // Transform the response data to match the table format
-      // const transformedData = Object.entries(response.data).map(([fsn_id, data]: [string, any]) => {
-      //   return {
-      //     fsn_id,
-      //     totalSales: data.Total_sales || 0,
-      //     units: data.total_units || 0,
-      //     avgSLA: data.avg_sla === "NA" ? "N/A" : data.avg_sla,
-      //     codPercentage:
-      //       data.total_cod > 0 ? Math.round((data.total_cod / (data.total_cod + data.total_prepaid)) * 100) : 0,
-      //     prepaidPercentage:
-      //       data.total_prepaid > 0 ? Math.round((data.total_prepaid / (data.total_cod + data.total_prepaid)) * 100) : 0,
-      //     last7Days: data.last_week || [0, 0, 0, 0, 0, 0, 0, 0],
-      //   }
-      // })
-
-      // setTableData(transformedData)
-      // Reset to first page when filters change
       setCurrentPage(1)
     } catch (error) {
       console.error("Error fetching data:", error)
@@ -1455,7 +1418,9 @@ export default function YearlyAnalysis() {
       {/* Data table */}
       <Card className="p-4 bg-white shadow-sm rounded-lg overflow-hidden">
         <h2 className="text-base font-medium text-gray-700 mb-4">Product Performance</h2>
-        {tableData.length > 0 ? (
+        {isLoading ? (
+          <Loader />
+        ) : tableData.length > 0 ? (
           <>
             <div className="overflow-x-auto">
               <table className="w-full text-sm">
