@@ -1,0 +1,1478 @@
+{
+    "2023": {
+        "5": [
+            {
+                "Date": "2023-05-19",
+                "Mean Temp (\u00b0C)": 12.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 3149.0
+            }
+        ],
+        "6": [
+            {
+                "Date": "2023-06-11",
+                "Mean Temp (\u00b0C)": 19.5,
+                "Total Rain (mm)": 1.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 275.0
+            },
+            {
+                "Date": "2023-06-24",
+                "Mean Temp (\u00b0C)": 19.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 188.0
+            },
+            {
+                "Date": "2023-06-26",
+                "Mean Temp (\u00b0C)": 19.8,
+                "Total Rain (mm)": 27.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 4269.0
+            }
+        ],
+        "7": [
+            {
+                "Date": "2023-07-01",
+                "Mean Temp (\u00b0C)": 20.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 20747.0
+            },
+            {
+                "Date": "2023-07-03",
+                "Mean Temp (\u00b0C)": 17.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 568303.0
+            },
+            {
+                "Date": "2023-07-04",
+                "Mean Temp (\u00b0C)": 18.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 81821.0
+            },
+            {
+                "Date": "2023-07-05",
+                "Mean Temp (\u00b0C)": 21.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 1899.0
+            },
+            {
+                "Date": "2023-07-07",
+                "Mean Temp (\u00b0C)": 22.0,
+                "Total Rain (mm)": 8.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8328190.0
+            },
+            {
+                "Date": "2023-07-08",
+                "Mean Temp (\u00b0C)": 16.3,
+                "Total Rain (mm)": 14.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8526458.0
+            },
+            {
+                "Date": "2023-07-09",
+                "Mean Temp (\u00b0C)": 20.5,
+                "Total Rain (mm)": 3.5,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6507899.0
+            },
+            {
+                "Date": "2023-07-10",
+                "Mean Temp (\u00b0C)": 19.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6279633.8
+            },
+            {
+                "Date": "2023-07-11",
+                "Mean Temp (\u00b0C)": 20.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6029086.0
+            },
+            {
+                "Date": "2023-07-12",
+                "Mean Temp (\u00b0C)": 21.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7315700.0
+            },
+            {
+                "Date": "2023-07-14",
+                "Mean Temp (\u00b0C)": 24.3,
+                "Total Rain (mm)": 1.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6804952.0
+            },
+            {
+                "Date": "2023-07-15",
+                "Mean Temp (\u00b0C)": 19.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6712174.0
+            },
+            {
+                "Date": "2023-07-16",
+                "Mean Temp (\u00b0C)": 18.0,
+                "Total Rain (mm)": 3.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8058564.667
+            },
+            {
+                "Date": "2023-07-17",
+                "Mean Temp (\u00b0C)": 24.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7904728.0
+            },
+            {
+                "Date": "2023-07-18",
+                "Mean Temp (\u00b0C)": 26.5,
+                "Total Rain (mm)": 3.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6602315.359
+            },
+            {
+                "Date": "2023-07-19",
+                "Mean Temp (\u00b0C)": 27.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6858041.0
+            },
+            {
+                "Date": "2023-07-20",
+                "Mean Temp (\u00b0C)": 22.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7387669.0
+            },
+            {
+                "Date": "2023-07-22",
+                "Mean Temp (\u00b0C)": 20.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6321877.0
+            },
+            {
+                "Date": "2023-07-23",
+                "Mean Temp (\u00b0C)": 22.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6379827.0
+            },
+            {
+                "Date": "2023-07-25",
+                "Mean Temp (\u00b0C)": 25.0,
+                "Total Rain (mm)": 5.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7041190.5
+            },
+            {
+                "Date": "2023-07-26",
+                "Mean Temp (\u00b0C)": 25.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6758461.0
+            },
+            {
+                "Date": "2023-07-27",
+                "Mean Temp (\u00b0C)": 24.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6536422.667
+            },
+            {
+                "Date": "2023-07-28",
+                "Mean Temp (\u00b0C)": 25.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7051311.0
+            },
+            {
+                "Date": "2023-07-30",
+                "Mean Temp (\u00b0C)": 24.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6479167.0
+            },
+            {
+                "Date": "2023-07-31",
+                "Mean Temp (\u00b0C)": 25.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6243341.0
+            }
+        ],
+        "8": [
+            {
+                "Date": "2023-08-01",
+                "Mean Temp (\u00b0C)": 22.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6323.0
+            },
+            {
+                "Date": "2023-08-02",
+                "Mean Temp (\u00b0C)": 25.0,
+                "Total Rain (mm)": 27.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 398.0
+            },
+            {
+                "Date": "2023-08-04",
+                "Mean Temp (\u00b0C)": 21.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 4032.0
+            },
+            {
+                "Date": "2023-08-05",
+                "Mean Temp (\u00b0C)": 21.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 1756.0
+            },
+            {
+                "Date": "2023-08-08",
+                "Mean Temp (\u00b0C)": 20.0,
+                "Total Rain (mm)": 1.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 5148.0
+            },
+            {
+                "Date": "2023-08-09",
+                "Mean Temp (\u00b0C)": 23.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 799.0
+            },
+            {
+                "Date": "2023-08-10",
+                "Mean Temp (\u00b0C)": 23.5,
+                "Total Rain (mm)": 11.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 4100.0
+            },
+            {
+                "Date": "2023-08-14",
+                "Mean Temp (\u00b0C)": 25.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 500.0
+            },
+            {
+                "Date": "2023-08-16",
+                "Mean Temp (\u00b0C)": 24.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 3680.0
+            },
+            {
+                "Date": "2023-08-17",
+                "Mean Temp (\u00b0C)": 26.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 689.0
+            },
+            {
+                "Date": "2023-08-18",
+                "Mean Temp (\u00b0C)": 24.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 1397.0
+            },
+            {
+                "Date": "2023-08-19",
+                "Mean Temp (\u00b0C)": 26.3,
+                "Total Rain (mm)": 30.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 4399.0
+            },
+            {
+                "Date": "2023-08-21",
+                "Mean Temp (\u00b0C)": 20.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 1007.0
+            },
+            {
+                "Date": "2023-08-30",
+                "Mean Temp (\u00b0C)": 24.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 5981.0
+            },
+            {
+                "Date": "2023-08-31",
+                "Mean Temp (\u00b0C)": 24.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 282824.0
+            }
+        ],
+        "9": [
+            {
+                "Date": "2023-09-01",
+                "Mean Temp (\u00b0C)": 25.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 15157056.0
+            },
+            {
+                "Date": "2023-09-03",
+                "Mean Temp (\u00b0C)": 26.0,
+                "Total Rain (mm)": 57.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 13031435.51
+            },
+            {
+                "Date": "2023-09-04",
+                "Mean Temp (\u00b0C)": 24.3,
+                "Total Rain (mm)": 2.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14570422.0
+            },
+            {
+                "Date": "2023-09-05",
+                "Mean Temp (\u00b0C)": 23.0,
+                "Total Rain (mm)": 0.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 12259315.0
+            },
+            {
+                "Date": "2023-09-07",
+                "Mean Temp (\u00b0C)": 25.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14612349.0
+            },
+            {
+                "Date": "2023-09-09",
+                "Mean Temp (\u00b0C)": 23.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14182964.0
+            },
+            {
+                "Date": "2023-09-11",
+                "Mean Temp (\u00b0C)": 17.8,
+                "Total Rain (mm)": 4.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 13798546.0
+            },
+            {
+                "Date": "2023-09-12",
+                "Mean Temp (\u00b0C)": 15.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 12480886.0
+            },
+            {
+                "Date": "2023-09-13",
+                "Mean Temp (\u00b0C)": 14.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 13138360.0
+            },
+            {
+                "Date": "2023-09-16",
+                "Mean Temp (\u00b0C)": 20.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11979950.5
+            },
+            {
+                "Date": "2023-09-19",
+                "Mean Temp (\u00b0C)": 20.8,
+                "Total Rain (mm)": 2.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 15045930.0
+            },
+            {
+                "Date": "2023-09-27",
+                "Mean Temp (\u00b0C)": 20.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 15078922.0
+            },
+            {
+                "Date": "2023-09-28",
+                "Mean Temp (\u00b0C)": 22.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 13839151.0
+            },
+            {
+                "Date": "2023-09-29",
+                "Mean Temp (\u00b0C)": 19.8,
+                "Total Rain (mm)": 9.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14392227.0
+            },
+            {
+                "Date": "2023-09-30",
+                "Mean Temp (\u00b0C)": 15.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 12136289.0
+            }
+        ],
+        "10": [
+            {
+                "Date": "2023-10-04",
+                "Mean Temp (\u00b0C)": 12.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6359158.0
+            },
+            {
+                "Date": "2023-10-05",
+                "Mean Temp (\u00b0C)": 17.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6019263.0
+            },
+            {
+                "Date": "2023-10-06",
+                "Mean Temp (\u00b0C)": 16.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6699051.0
+            },
+            {
+                "Date": "2023-10-07",
+                "Mean Temp (\u00b0C)": 17.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6988312.0
+            },
+            {
+                "Date": "2023-10-09",
+                "Mean Temp (\u00b0C)": 15.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 5287061.0
+            },
+            {
+                "Date": "2023-10-11",
+                "Mean Temp (\u00b0C)": 16.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 5217017.0
+            },
+            {
+                "Date": "2023-10-12",
+                "Mean Temp (\u00b0C)": 18.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 5848009.0
+            },
+            {
+                "Date": "2023-10-16",
+                "Mean Temp (\u00b0C)": 9.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 162031475.6
+            },
+            {
+                "Date": "2023-10-20",
+                "Mean Temp (\u00b0C)": 17.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7173197.973
+            },
+            {
+                "Date": "2023-10-21",
+                "Mean Temp (\u00b0C)": 16.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7797876.292
+            },
+            {
+                "Date": "2023-10-22",
+                "Mean Temp (\u00b0C)": 16.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7012965.537
+            },
+            {
+                "Date": "2023-10-24",
+                "Mean Temp (\u00b0C)": 15.0,
+                "Total Rain (mm)": 4.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7292756.488
+            },
+            {
+                "Date": "2023-10-25",
+                "Mean Temp (\u00b0C)": 12.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6642897.354
+            },
+            {
+                "Date": "2023-10-26",
+                "Mean Temp (\u00b0C)": 8.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 20677373.96
+            },
+            {
+                "Date": "2023-10-28",
+                "Mean Temp (\u00b0C)": 13.0,
+                "Total Rain (mm)": 1.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 21024442.73
+            }
+        ],
+        "11": [
+            {
+                "Date": "2023-11-03",
+                "Mean Temp (\u00b0C)": 14.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8757852.0
+            },
+            {
+                "Date": "2023-11-04",
+                "Mean Temp (\u00b0C)": 14.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8650332.885
+            },
+            {
+                "Date": "2023-11-05",
+                "Mean Temp (\u00b0C)": 16.5,
+                "Total Rain (mm)": 6.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8647592.491
+            },
+            {
+                "Date": "2023-11-06",
+                "Mean Temp (\u00b0C)": 15.0,
+                "Total Rain (mm)": 1.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8251476.5
+            },
+            {
+                "Date": "2023-11-07",
+                "Mean Temp (\u00b0C)": 9.8,
+                "Total Rain (mm)": 1.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 43967856.73
+            },
+            {
+                "Date": "2023-11-09",
+                "Mean Temp (\u00b0C)": 6.5,
+                "Total Rain (mm)": 12.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 41274508.18
+            },
+            {
+                "Date": "2023-11-12",
+                "Mean Temp (\u00b0C)": 9.0,
+                "Total Rain (mm)": 3.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8115757.0
+            },
+            {
+                "Date": "2023-11-15",
+                "Mean Temp (\u00b0C)": 11.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7136010.5
+            },
+            {
+                "Date": "2023-11-18",
+                "Mean Temp (\u00b0C)": 14.0,
+                "Total Rain (mm)": 11.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7171162.893
+            },
+            {
+                "Date": "2023-11-19",
+                "Mean Temp (\u00b0C)": 10.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6723330.5
+            },
+            {
+                "Date": "2023-11-21",
+                "Mean Temp (\u00b0C)": 0.8,
+                "Total Rain (mm)": 1.6,
+                "Total Snow (cm)": 10.0,
+                "gmv": 7659009.741
+            },
+            {
+                "Date": "2023-11-22",
+                "Mean Temp (\u00b0C)": -1.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6692854.0
+            },
+            {
+                "Date": "2023-11-27",
+                "Mean Temp (\u00b0C)": 7.8,
+                "Total Rain (mm)": 11.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6431593.0
+            }
+        ],
+        "12": [
+            {
+                "Date": "2023-12-02",
+                "Mean Temp (\u00b0C)": 1.8,
+                "Total Rain (mm)": 4.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10310045.85
+            },
+            {
+                "Date": "2023-12-07",
+                "Mean Temp (\u00b0C)": 0.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 24411794.52
+            },
+            {
+                "Date": "2023-12-11",
+                "Mean Temp (\u00b0C)": 9.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10078354.0
+            },
+            {
+                "Date": "2023-12-12",
+                "Mean Temp (\u00b0C)": 11.5,
+                "Total Rain (mm)": 0.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10651673.0
+            },
+            {
+                "Date": "2023-12-13",
+                "Mean Temp (\u00b0C)": 13.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9747999.0
+            },
+            {
+                "Date": "2023-12-19",
+                "Mean Temp (\u00b0C)": -0.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9775090.0
+            },
+            {
+                "Date": "2023-12-20",
+                "Mean Temp (\u00b0C)": 0.3,
+                "Total Rain (mm)": 7.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9902233.327
+            },
+            {
+                "Date": "2023-12-22",
+                "Mean Temp (\u00b0C)": 7.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 32962315.72
+            },
+            {
+                "Date": "2023-12-23",
+                "Mean Temp (\u00b0C)": 8.3,
+                "Total Rain (mm)": 10.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 31063635.38
+            },
+            {
+                "Date": "2023-12-29",
+                "Mean Temp (\u00b0C)": 2.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10232398.13
+            }
+        ]
+    },
+    "2024": {
+        "1": [
+            {
+                "Date": "2024-01-08",
+                "Mean Temp (\u00b0C)": -3.5,
+                "Total Rain (mm)": 9.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9624828.0
+            },
+            {
+                "Date": "2024-01-09",
+                "Mean Temp (\u00b0C)": 7.0,
+                "Total Rain (mm)": 14.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9289452.0
+            },
+            {
+                "Date": "2024-01-10",
+                "Mean Temp (\u00b0C)": -3.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 7.0,
+                "gmv": 8635659.0
+            },
+            {
+                "Date": "2024-01-12",
+                "Mean Temp (\u00b0C)": -8.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10073189.0
+            },
+            {
+                "Date": "2024-01-14",
+                "Mean Temp (\u00b0C)": -4.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8154086.333
+            },
+            {
+                "Date": "2024-01-15",
+                "Mean Temp (\u00b0C)": 1.3,
+                "Total Rain (mm)": 7.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8031294.0
+            },
+            {
+                "Date": "2024-01-25",
+                "Mean Temp (\u00b0C)": -1.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8473711.0
+            }
+        ],
+        "2": [
+            {
+                "Date": "2024-02-02",
+                "Mean Temp (\u00b0C)": 2.0,
+                "Total Rain (mm)": 10.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9979668.25
+            },
+            {
+                "Date": "2024-02-03",
+                "Mean Temp (\u00b0C)": 7.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 15238203.4
+            },
+            {
+                "Date": "2024-02-04",
+                "Mean Temp (\u00b0C)": 0.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11115677.6
+            },
+            {
+                "Date": "2024-02-08",
+                "Mean Temp (\u00b0C)": 2.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 7.0,
+                "gmv": 11708189.0
+            },
+            {
+                "Date": "2024-02-13",
+                "Mean Temp (\u00b0C)": -12.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8763447.25
+            },
+            {
+                "Date": "2024-02-14",
+                "Mean Temp (\u00b0C)": -11.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 1.0,
+                "gmv": 8409375.0
+            },
+            {
+                "Date": "2024-02-18",
+                "Mean Temp (\u00b0C)": -2.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 12077387.5
+            },
+            {
+                "Date": "2024-02-19",
+                "Mean Temp (\u00b0C)": 7.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14064929.0
+            },
+            {
+                "Date": "2024-02-20",
+                "Mean Temp (\u00b0C)": 11.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 16895389.73
+            },
+            {
+                "Date": "2024-02-24",
+                "Mean Temp (\u00b0C)": 0.0,
+                "Total Rain (mm)": 25.4,
+                "Total Snow (cm)": 6.0,
+                "gmv": 11059226.0
+            },
+            {
+                "Date": "2024-02-25",
+                "Mean Temp (\u00b0C)": -1.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9678503.6
+            },
+            {
+                "Date": "2024-02-29",
+                "Mean Temp (\u00b0C)": 4.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10948370.0
+            }
+        ],
+        "3": [
+            {
+                "Date": "2024-03-01",
+                "Mean Temp (\u00b0C)": 2.8,
+                "Total Rain (mm)": 3.0,
+                "Total Snow (cm)": 5.0,
+                "gmv": 10030559.5
+            },
+            {
+                "Date": "2024-03-04",
+                "Mean Temp (\u00b0C)": -1.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 2.0,
+                "gmv": 9905395.0
+            },
+            {
+                "Date": "2024-03-07",
+                "Mean Temp (\u00b0C)": 8.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 42710147.11
+            },
+            {
+                "Date": "2024-03-09",
+                "Mean Temp (\u00b0C)": 14.5,
+                "Total Rain (mm)": 3.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 32902746.61
+            },
+            {
+                "Date": "2024-03-13",
+                "Mean Temp (\u00b0C)": 8.0,
+                "Total Rain (mm)": 23.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10940051.0
+            },
+            {
+                "Date": "2024-03-15",
+                "Mean Temp (\u00b0C)": 11.0,
+                "Total Rain (mm)": 1.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 15007247.5
+            },
+            {
+                "Date": "2024-03-16",
+                "Mean Temp (\u00b0C)": 10.8,
+                "Total Rain (mm)": 0.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14353691.5
+            },
+            {
+                "Date": "2024-03-17",
+                "Mean Temp (\u00b0C)": 9.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10003133.5
+            },
+            {
+                "Date": "2024-03-18",
+                "Mean Temp (\u00b0C)": 4.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8918261.25
+            },
+            {
+                "Date": "2024-03-21",
+                "Mean Temp (\u00b0C)": 2.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10973676.33
+            },
+            {
+                "Date": "2024-03-23",
+                "Mean Temp (\u00b0C)": 6.5,
+                "Total Rain (mm)": 3.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9046795.5
+            },
+            {
+                "Date": "2024-03-24",
+                "Mean Temp (\u00b0C)": 7.5,
+                "Total Rain (mm)": 32.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11503935.5
+            },
+            {
+                "Date": "2024-03-26",
+                "Mean Temp (\u00b0C)": 2.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9611514.0
+            },
+            {
+                "Date": "2024-03-27",
+                "Mean Temp (\u00b0C)": 9.3,
+                "Total Rain (mm)": 28.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8914115.0
+            },
+            {
+                "Date": "2024-03-28",
+                "Mean Temp (\u00b0C)": 7.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11417645.0
+            },
+            {
+                "Date": "2024-03-29",
+                "Mean Temp (\u00b0C)": 5.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11565489.16
+            },
+            {
+                "Date": "2024-03-30",
+                "Mean Temp (\u00b0C)": 8.0,
+                "Total Rain (mm)": 7.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11162302.0
+            },
+            {
+                "Date": "2024-03-31",
+                "Mean Temp (\u00b0C)": 12.8,
+                "Total Rain (mm)": 9.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10668112.0
+            }
+        ],
+        "4": [
+            {
+                "Date": "2024-04-01",
+                "Mean Temp (\u00b0C)": 9.3,
+                "Total Rain (mm)": 1.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11942135.5
+            },
+            {
+                "Date": "2024-04-02",
+                "Mean Temp (\u00b0C)": 3.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 3.8,
+                "gmv": 7775688.105
+            },
+            {
+                "Date": "2024-04-03",
+                "Mean Temp (\u00b0C)": 1.5,
+                "Total Rain (mm)": 1.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7357371.0
+            },
+            {
+                "Date": "2024-04-04",
+                "Mean Temp (\u00b0C)": -0.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 16438410.04
+            },
+            {
+                "Date": "2024-04-05",
+                "Mean Temp (\u00b0C)": -2.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 13045151.84
+            },
+            {
+                "Date": "2024-04-06",
+                "Mean Temp (\u00b0C)": 4.8,
+                "Total Rain (mm)": 9.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 12338826.17
+            },
+            {
+                "Date": "2024-04-08",
+                "Mean Temp (\u00b0C)": 2.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 2.2,
+                "gmv": 11928239.0
+            },
+            {
+                "Date": "2024-04-13",
+                "Mean Temp (\u00b0C)": 4.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8244781.0
+            },
+            {
+                "Date": "2024-04-14",
+                "Mean Temp (\u00b0C)": 6.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9575891.5
+            },
+            {
+                "Date": "2024-04-15",
+                "Mean Temp (\u00b0C)": 11.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8224893.0
+            },
+            {
+                "Date": "2024-04-16",
+                "Mean Temp (\u00b0C)": 14.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8160887.0
+            },
+            {
+                "Date": "2024-04-17",
+                "Mean Temp (\u00b0C)": 13.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7450577.0
+            },
+            {
+                "Date": "2024-04-18",
+                "Mean Temp (\u00b0C)": 15.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 7158195.25
+            },
+            {
+                "Date": "2024-04-19",
+                "Mean Temp (\u00b0C)": 11.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8121003.0
+            },
+            {
+                "Date": "2024-04-20",
+                "Mean Temp (\u00b0C)": 12.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 16703569.0
+            },
+            {
+                "Date": "2024-04-22",
+                "Mean Temp (\u00b0C)": 12.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 4586954.0
+            },
+            {
+                "Date": "2024-04-25",
+                "Mean Temp (\u00b0C)": 14.0,
+                "Total Rain (mm)": 12.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 1254493.0
+            },
+            {
+                "Date": "2024-04-26",
+                "Mean Temp (\u00b0C)": 10.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 628258.0
+            },
+            {
+                "Date": "2024-04-28",
+                "Mean Temp (\u00b0C)": 6.8,
+                "Total Rain (mm)": 3.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10524113.0
+            }
+        ],
+        "5": [
+            {
+                "Date": "2024-05-02",
+                "Mean Temp (\u00b0C)": 10.0,
+                "Total Rain (mm)": 0.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10054550.0
+            },
+            {
+                "Date": "2024-05-03",
+                "Mean Temp (\u00b0C)": 10.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10835618.0
+            },
+            {
+                "Date": "2024-05-04",
+                "Mean Temp (\u00b0C)": 12.5,
+                "Total Rain (mm)": 10.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 12458626.0
+            },
+            {
+                "Date": "2024-05-05",
+                "Mean Temp (\u00b0C)": 12.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10924878.0
+            },
+            {
+                "Date": "2024-05-06",
+                "Mean Temp (\u00b0C)": 13.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9581474.0
+            },
+            {
+                "Date": "2024-05-12",
+                "Mean Temp (\u00b0C)": 18.3,
+                "Total Rain (mm)": 10.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10961488.0
+            },
+            {
+                "Date": "2024-05-13",
+                "Mean Temp (\u00b0C)": 16.5,
+                "Total Rain (mm)": 6.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11260963.0
+            },
+            {
+                "Date": "2024-05-14",
+                "Mean Temp (\u00b0C)": 9.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11425388.0
+            },
+            {
+                "Date": "2024-05-15",
+                "Mean Temp (\u00b0C)": 6.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11640045.0
+            },
+            {
+                "Date": "2024-05-16",
+                "Mean Temp (\u00b0C)": 12.5,
+                "Total Rain (mm)": 0.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 12636237.25
+            },
+            {
+                "Date": "2024-05-18",
+                "Mean Temp (\u00b0C)": 12.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 11382782.0
+            },
+            {
+                "Date": "2024-05-24",
+                "Mean Temp (\u00b0C)": 19.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9987609.25
+            },
+            {
+                "Date": "2024-05-25",
+                "Mean Temp (\u00b0C)": 22.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 47869261.42
+            },
+            {
+                "Date": "2024-05-26",
+                "Mean Temp (\u00b0C)": 24.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 29372719.46
+            },
+            {
+                "Date": "2024-05-27",
+                "Mean Temp (\u00b0C)": 24.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 32394003.69
+            },
+            {
+                "Date": "2024-05-28",
+                "Mean Temp (\u00b0C)": 24.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9778467.0
+            },
+            {
+                "Date": "2024-05-29",
+                "Mean Temp (\u00b0C)": 25.0,
+                "Total Rain (mm)": 2.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9293761.0
+            }
+        ],
+        "6": [
+            {
+                "Date": "2024-06-02",
+                "Mean Temp (\u00b0C)": 23.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9650051.0
+            },
+            {
+                "Date": "2024-06-04",
+                "Mean Temp (\u00b0C)": 20.3,
+                "Total Rain (mm)": 8.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9709715.25
+            },
+            {
+                "Date": "2024-06-05",
+                "Mean Temp (\u00b0C)": 21.0,
+                "Total Rain (mm)": 4.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10037696.0
+            },
+            {
+                "Date": "2024-06-06",
+                "Mean Temp (\u00b0C)": 22.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9557139.0
+            },
+            {
+                "Date": "2024-06-08",
+                "Mean Temp (\u00b0C)": 15.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9501099.0
+            },
+            {
+                "Date": "2024-06-09",
+                "Mean Temp (\u00b0C)": 17.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8992348.0
+            },
+            {
+                "Date": "2024-06-10",
+                "Mean Temp (\u00b0C)": 21.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9809869.0
+            },
+            {
+                "Date": "2024-06-11",
+                "Mean Temp (\u00b0C)": 27.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10894325.82
+            },
+            {
+                "Date": "2024-06-12",
+                "Mean Temp (\u00b0C)": 21.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10779253.0
+            },
+            {
+                "Date": "2024-06-13",
+                "Mean Temp (\u00b0C)": 16.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9773486.0
+            },
+            {
+                "Date": "2024-06-16",
+                "Mean Temp (\u00b0C)": 22.3,
+                "Total Rain (mm)": 4.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9972794.0
+            },
+            {
+                "Date": "2024-06-18",
+                "Mean Temp (\u00b0C)": 21.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9460445.0
+            },
+            {
+                "Date": "2024-06-19",
+                "Mean Temp (\u00b0C)": 24.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9578623.0
+            },
+            {
+                "Date": "2024-06-20",
+                "Mean Temp (\u00b0C)": 27.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10472879.0
+            },
+            {
+                "Date": "2024-06-22",
+                "Mean Temp (\u00b0C)": 23.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 8957760.0
+            },
+            {
+                "Date": "2024-06-24",
+                "Mean Temp (\u00b0C)": 21.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 13524295.0
+            },
+            {
+                "Date": "2024-06-25",
+                "Mean Temp (\u00b0C)": 21.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14204299.0
+            },
+            {
+                "Date": "2024-06-26",
+                "Mean Temp (\u00b0C)": 26.3,
+                "Total Rain (mm)": 3.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 10478894.88
+            },
+            {
+                "Date": "2024-06-27",
+                "Mean Temp (\u00b0C)": 27.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9363826.0
+            },
+            {
+                "Date": "2024-06-30",
+                "Mean Temp (\u00b0C)": 21.5,
+                "Total Rain (mm)": 2.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 9238592.0
+            }
+        ],
+        "7": [
+            {
+                "Date": "2024-07-02",
+                "Mean Temp (\u00b0C)": 18.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 314692.0
+            },
+            {
+                "Date": "2024-07-03",
+                "Mean Temp (\u00b0C)": 20.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 221859.0
+            },
+            {
+                "Date": "2024-07-05",
+                "Mean Temp (\u00b0C)": 26.8,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 130994.0
+            },
+            {
+                "Date": "2024-07-06",
+                "Mean Temp (\u00b0C)": 26.0,
+                "Total Rain (mm)": 3.6,
+                "Total Snow (cm)": 0.0,
+                "gmv": 40140.0
+            },
+            {
+                "Date": "2024-07-07",
+                "Mean Temp (\u00b0C)": 27.3,
+                "Total Rain (mm)": 33.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 74948.0
+            },
+            {
+                "Date": "2024-07-08",
+                "Mean Temp (\u00b0C)": 25.3,
+                "Total Rain (mm)": 7.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 350667.0
+            },
+            {
+                "Date": "2024-07-09",
+                "Mean Temp (\u00b0C)": 22.3,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 19117.0
+            },
+            {
+                "Date": "2024-07-12",
+                "Mean Temp (\u00b0C)": 27.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 28387.0
+            },
+            {
+                "Date": "2024-07-13",
+                "Mean Temp (\u00b0C)": 27.5,
+                "Total Rain (mm)": 27.4,
+                "Total Snow (cm)": 0.0,
+                "gmv": 6467.0
+            },
+            {
+                "Date": "2024-07-14",
+                "Mean Temp (\u00b0C)": 26.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 14805.0
+            },
+            {
+                "Date": "2024-07-15",
+                "Mean Temp (\u00b0C)": 24.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 888.0
+            },
+            {
+                "Date": "2024-07-17",
+                "Mean Temp (\u00b0C)": 23.0,
+                "Total Rain (mm)": 1.2,
+                "Total Snow (cm)": 0.0,
+                "gmv": 945.0
+            },
+            {
+                "Date": "2024-07-19",
+                "Mean Temp (\u00b0C)": 22.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 307.0
+            },
+            {
+                "Date": "2024-07-22",
+                "Mean Temp (\u00b0C)": 28.5,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 21495.0
+            },
+            {
+                "Date": "2024-07-24",
+                "Mean Temp (\u00b0C)": 26.0,
+                "Total Rain (mm)": 10.8,
+                "Total Snow (cm)": 0.0,
+                "gmv": 738.0
+            },
+            {
+                "Date": "2024-07-25",
+                "Mean Temp (\u00b0C)": 28.0,
+                "Total Rain (mm)": 0.0,
+                "Total Snow (cm)": 0.0,
+                "gmv": 2678.0
+            }
+        ]
+    }
+}
