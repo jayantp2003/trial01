@@ -409,15 +409,25 @@ const AddEventCard = ({ onClick }: { onClick: () => void }) => {
   )
 }
 
-// Predict Distribution Button
-const PredictButton = ({ onClick }: { onClick: () => void }) => {
+// Update PredictButton component
+const PredictButton = ({ onClick, isLoading }: { onClick: () => void; isLoading: boolean }) => {
   return (
     <button
       onClick={onClick}
-      className="w-full flex items-center justify-center px-4 py-4 bg-green-600 text-white rounded-xl hover:bg-green-700 transition-colors"
+      disabled={isLoading}
+      className="w-full flex items-center justify-center px-4 py-4 bg-green-600 text-white rounded-xl hover:bg-green-700 transition-colors disabled:bg-green-400 disabled:cursor-not-allowed"
     >
-      <TrendingUp className="h-6 w-6 mr-3" />
-      <span className="text-lg font-medium">Predict Distribution</span>
+      {isLoading ? (
+        <div className="flex items-center">
+          <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white mr-3"></div>
+          <span className="text-lg font-medium">Calculating...</span>
+        </div>
+      ) : (
+        <>
+          <TrendingUp className="h-6 w-6 mr-3" />
+          <span className="text-lg font-medium">Predict Distribution</span>
+        </>
+      )}
     </button>
   )
 }
@@ -547,6 +557,7 @@ export default function InvestmentPlanner() {
     holiday: [],
     salesday: [],
   })
+  const [isLoading, setIsLoading] = useState(false)
 
   // Update request data when events or month changes
   useEffect(() => {
@@ -602,18 +613,24 @@ export default function InvestmentPlanner() {
 
   const predictDistribution = async () => {
     try {
-      const data = generateDistribution(requestData.month, requestData.holiday, requestData.salesday);
+      setIsLoading(true)
       
-      // Convert to percentage format for display
+      // Simulate API delay
+      await new Promise(resolve => setTimeout(resolve, 1500))
+      
+      const data = generateDistribution(requestData.month, requestData.holiday, requestData.salesday)
+      
       const newDistribution = Object.entries(data).map(([id, value]) => ({
         id,
         percentage: value * 100,
-      }));
+      }))
 
-      setDistribution(newDistribution);
-      setIsPredicted(true);
+      setDistribution(newDistribution)
+      setIsPredicted(true)
     } catch (error) {
-      console.error("Failed to predict distribution:", error);
+      console.error("Failed to predict distribution:", error)
+    } finally {
+      setIsLoading(false)
     }
   }
 
@@ -643,7 +660,7 @@ export default function InvestmentPlanner() {
           <InvestmentSlider value={investmentAmount} onChange={setInvestmentAmount} />
 
           {/* Predict Distribution Button */}
-          <PredictButton onClick={predictDistribution} />
+          <PredictButton onClick={predictDistribution} isLoading={isLoading} />
         </div>
 
         {/* Right side: Calendar and Legend */}
